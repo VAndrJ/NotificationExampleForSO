@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  NotificationExample
 //
-//  Created by Vlad Andreev on 5/11/17.
+//  Created by VAndrJ on 5/11/17.
 //  Copyright © 2017 VAndrJ. All rights reserved.
 //
 
